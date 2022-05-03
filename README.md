@@ -10,11 +10,24 @@
 
 ## Contents
 
-- [Summary](##Summary)
-- [Templates](##Themes)
+- [Summary](#summary)
+- [Portfolios](#portfolios)
+- [Templates](#themes)
 
 ## Summary
 Portfolios are one of the best ways to showcase your skill and projects you have done. This is a collection of awesome portfolios websites by amazing people, well mostly developers. Use this list is for taking inspiration, choosing your stack, or for finding amazing contents in these portfolios and blogs in them. 
+
+
+## Portfolios
+
+- [colah's-blog](http://colah.github.io/about.html)
+- [colah's-blog](http://colah.github.io/about.html)
+- [colah's-blog](http://colah.github.io/about.html)
+- [colah's-blog](http://colah.github.io/about.html)
+- [colah's-blog](http://colah.github.io/about.html)
+- [colah's-blog](http://colah.github.io/about.html)
+- [colah's-blog](http://colah.github.io/about.html)
+- [colah's-blog](http://colah.github.io/about.html)
 
 ## Themes
 
@@ -22,3 +35,7 @@ Portfolios are one of the best ways to showcase your skill and projects you have
 - [UbuntuOS-Portfolio](https://github.com/vivek9patel/vivek9patel.github.io) - [Demo](https://vivek9patel.github.io/)
 - [developerFolio](https://github.com/saadpasta/developerFolio) - [Demo](https://developerfolio.js.org/)
 - [Portfolio](https://github.com/hashirshoaeb/home) - [Demo](https://hashirshoaeb.github.io/home)
+- [Personal-Site](https://github.com/mldangelo/personal-site) - [Demo](https://mldangelo.com/)
+- [Gatsby-Theme-Intro](https://github.com/wkocjan/gatsby-theme-intro) - [Demo](https://weeby.studio/intro/)
+- [Live-resume](https://github.com/guilhermeborgesbastos/live-resume) - [Demo](https://guilhermeborgesbastos.com/en/)
+- []
