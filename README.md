@@ -10,13 +10,13 @@
 
 ## Contents
 
-- [Summary](##summary)
-- [Templates](##Themes and Templates)
+- [Summary](##Summary)
+- [Templates](##Themes)
 
 ## Summary
 Portfolios are one of the best ways to showcase your skill and projects you have done. This is a collection of awesome portfolios websites by amazing people, well mostly developers. Use this list is for taking inspiration, choosing your stack, or for finding amazing contents in these portfolios and blogs in them. 
 
-## Themes and Templates
+## Themes
 
 - [DopeFolio](https://github.com/rammcodes/Dopefolio) - [Demo](https://dopefolio.netlify.app/)
 - [UbuntuOS-Portfolio](https://github.com/vivek9patel/vivek9patel.github.io) - [Demo](https://vivek9patel.github.io/)
