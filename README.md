@@ -1,6 +1,6 @@
-<h1 align="center">Awesome Portfolio Sites</h1>
+<h1 align="center">Awesome Portfolio Sites and Blogs</h1>
 <p align="center">
-  Awesome Portfolios sites for inspiration, ideas, and amazing content.
+  Awesome Portfolio sites(mostly) and Blogs for inspiration, ideas, and amazing content.
 </p>
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome">
@@ -11,23 +11,32 @@
 ## Contents
 
 - [Summary](#summary)
+- [Blogs](#blogs)
+  - [Machine Learning](#machine-learning)
+  - [Computer Security](#computer-security)
+  - [Misc.](#misc)
 - [Portfolios](#portfolios)
 - [Templates](#themes)
 
 ## Summary
-Portfolios are one of the best ways to showcase your skill and projects you have done. This is a collection of awesome portfolios websites by amazing people, well mostly developers. Use this list is for taking inspiration, choosing your stack, or for finding amazing contents in these portfolios and blogs in them. 
+Portfolios and Blogs are one of the best ways to showcase your skill and projects you have done. This is a collection of awesome portfolios websites by amazing people, well mostly developers. Use this list is for taking inspiration, choosing your stack, or for finding amazing contents in these portfolios and blogs in them. 
 
+## Blogs
+
+### Machine Learning
+- [Christopher Olah](http://colah.github.io/about.html)
+
+### Computer Security
+- [Bee](https://skerritt.blog/)
+
+### Misc.
+- [Arun Michael Dsouza](https://arunmichaeldsouza.com/)
+- [Ruan Bekker](https://blog.ruanbekker.com/)
 
 ## Portfolios
+- [Andrew Healey](https://healeycodes.com/)
+- [Nick Salloum](https://callmenick.com/)
 
-- [colah's-blog](http://colah.github.io/about.html)
-- [colah's-blog](http://colah.github.io/about.html)
-- [colah's-blog](http://colah.github.io/about.html)
-- [colah's-blog](http://colah.github.io/about.html)
-- [colah's-blog](http://colah.github.io/about.html)
-- [colah's-blog](http://colah.github.io/about.html)
-- [colah's-blog](http://colah.github.io/about.html)
-- [colah's-blog](http://colah.github.io/about.html)
 
 ## Themes
 
@@ -38,4 +47,3 @@ Portfolios are one of the best ways to showcase your skill and projects you have
 - [Personal-Site](https://github.com/mldangelo/personal-site) - [Demo](https://mldangelo.com/)
 - [Gatsby-Theme-Intro](https://github.com/wkocjan/gatsby-theme-intro) - [Demo](https://weeby.studio/intro/)
 - [Live-resume](https://github.com/guilhermeborgesbastos/live-resume) - [Demo](https://guilhermeborgesbastos.com/en/)
-- []
